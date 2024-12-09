@@ -34,7 +34,7 @@ git clone https://github.com/kishan2930/nodepay.git
 ```
 
 ```
-cd nodepaywoex-py
+cd nodepay
 ```
 
 ```
