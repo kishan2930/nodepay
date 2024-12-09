@@ -3,7 +3,6 @@
 ## Nodepay.ai
 
 ![Nodepay.ai](demo.jpeg)
-Nodepay.ai Bot auto ping
 
 Register to Nodepay.ai : [https://app.nodepay.ai/register](https://app.nodepay.ai/register?ref=Dk6mKB9qigZBGOw)
 
