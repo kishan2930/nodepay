@@ -1,5 +1,10 @@
 # SIMPLE SCRIPT TO RUN NODEPAY ON YOUR ANDROID PHONE USING TERMUX, NOT NEEDING ANY BROWSER AND EXTENSION
 
+## Nodepay.ai
+
+![Nodepay.ai](demo.jpeg)
+Nodepay.ai Bot auto ping
+
 Register to Nodepay.ai : [https://app.nodepay.ai/register](https://app.nodepay.ai/register?ref=Dk6mKB9qigZBGOw)
 
 Special Thanks to [ashtrobe](https://github.com/ashtrobe)
