@@ -4,6 +4,13 @@ Register to Nodepay.ai : [https://app.nodepay.ai/register](https://app.nodepay.a
 
 Special Thanks to [ashtrobe](https://github.com/ashtrobe)
 
+## Feature Update
+
+- Daily reward Point will be collect
+- Hourly Reward will be claim (Mobile feature is now in my script)
+- Constant Pinning from your device IP
+- Multiple Accounts support
+
 **Install Termux and Configure the Script-**
 
 ```
