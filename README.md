@@ -19,7 +19,7 @@ pkg install python
 ```
 
 ```
-git clone https://github.com/ashtrobe/nodepaywoex-py.git
+git clone https://github.com/kishan2930/nodepay.git
 ```
 
 ```
